@@ -1,0 +1,12 @@
+#surefire
+#Mon Dec 26 16:13:16 PKT 2016
+jpda.address=49505
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=E\:\\university work\\5th Semester\\Advanced Programming\\Hibernate Gradebook
+localRepository=C\:\\Users\\Salman\\.m2\\repository
+test=pk.edu.nust.seecs.gradebook.AppTest
+basedir=E\:\\university work\\5th Semester\\Advanced Programming\\Hibernate Gradebook
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=49505
